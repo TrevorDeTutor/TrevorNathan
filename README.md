@@ -32,7 +32,9 @@ I am an Associate Google Cloud Engineer and a Backend Software Developer
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [From your local server (Xampp) to Google Cloud VM](https://trevornathan.medium.com/from-your-local-server-xampp-to-google-cloud-vm-dc1521a3d610?source=rss-10c564d83acd------2)
+- [Securely store .env variables of your nodejs api in cloud Storage Bucket](https://trevornathan.medium.com/securely-store-env-variables-of-your-nodejs-api-in-cloud-storage-bucket-21085ee3bf79?source=rss-10c564d83acd------2)
+- [Deploy a PlayFramework App that uses Redis onto Google Compute Engine Instance](https://trevornathan.medium.com/deploy-a-simple-playframework-app-that-uses-redis-onto-google-compute-engine-instance-234c8994957c?source=rss-10c564d83acd------2)
 <!-- BLOG-POST-LIST:END -->
 
 
