@@ -30,7 +30,10 @@ I am an Associate Google Cloud Engineer and a Backend Software Developer
 <br>
 
 
-
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
 
 
 
