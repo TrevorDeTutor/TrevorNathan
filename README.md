@@ -1,8 +1,8 @@
 ### Hello World 👋
-I am an Associate Google Cloud Engineer and a Backend Software Developer
+I am a Google Cloud / DevOps Engineer and a JavaScript Developer
 
 - 🔭 I work alot with Google Cloud Platform and Scala-Play for backends
-- 🌱 Learning Scala Functional Programming and Professional Google Cloud Architect
+- 🌱 Future Artificial Intelligence and Robotics Engineer 🤖
 <br>
 
 ## Connect with me
