@@ -1,8 +1,10 @@
 ### Hello World 👋
-I am a Google Cloud / DevOps Engineer and a JavaScript Developer
+I am a Google Cloud / DevOps Engineer and a JavaScript Developer.
 
 - 🔭 I work alot with Google Cloud Platform and Scala-Play for backends
 - 🌱 Future Artificial Intelligence and Robotics Engineer 🤖
+- 💬 Ask me about Google Cloud
+- ⚡ Fun fact: I never sleep until the bug is fixed!
 <br>
 
 ## Connect with me
@@ -21,18 +23,18 @@ I am a Google Cloud / DevOps Engineer and a JavaScript Developer
 
 ## Expertise
 <img align="left" alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img align="left" alt="digitalOcean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img align="left" alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-<img align="left" alt="scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+<img align="left" alt="ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="scala" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
+<img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 <br>
-
-![Screenshot from 2021-07-01 23-56-37](https://user-images.githubusercontent.com/44920930/124188785-65bafe00-dac8-11eb-9a8e-8ed5ce9b4f16.png)
-
-
 <br>
 <br>
 
