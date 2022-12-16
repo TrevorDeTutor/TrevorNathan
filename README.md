@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a Google Cloud / DevOps Engineer and a JavaScript Developer.
 
-- 🔭 I work alot with Google Cloud Platform and Scala-Play for backends
+- 🔭 I work alot with Google Cloud Platform and Tech Community
 - 🌱 Future Artificial Intelligence and Robotics Engineer 🤖
 - 💬 Ask me about Google Cloud
 - ⚡ Fun fact: I never sleep until the bug is fixed!
