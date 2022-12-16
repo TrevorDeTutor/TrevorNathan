@@ -4,6 +4,7 @@ I am a Google Cloud / DevOps Engineer and a JavaScript Developer.
 - 🔭 I work alot with Google Cloud Platform and Tech Community
 - 🌱 Future Artificial Intelligence and Robotics Engineer 🤖
 - 💬 Ask me about Google Cloud
+- 📫 How to reach me: trevoratwijukire@gmail.com
 - ⚡ Fun fact: I never sleep until the bug is fixed!
 <br>
 
