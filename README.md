@@ -6,13 +6,12 @@ I am a Cloud geek, Educator and a Problem solver.
 - 🌱 It’s my dream for every child to learn about technology
 - 📫 How to reach me: trevoratwijukire@gmail.com
 - ⚡ Fun fact: I never sleep until the bug is fixed!
-- 🔭 One-day,I will create a technology solution that will put a dent in the universe.
+- 🔭 One-day, I will create a technology solution that will put a dent in the universe.
 <br>
 
 ## Connect with me
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://trevornathan.medium.com/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/trevornathan)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/12745913/trevor-nathan)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/atwijukire.trevor)
 [<img align="left" alt="hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@trevornathan)
