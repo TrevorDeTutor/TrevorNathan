@@ -1,11 +1,12 @@
 ### Hello World 👋
-I am a Google Cloud / DevOps Engineer and a JavaScript Developer.
+I am a Cloud geek | Educator and a Problem solver.
 
-- 🔭 I work alot with Google Cloud Platform and Tech Community
-- 🌱 Future Artificial Intelligence and Robotics Engineer 🤖
+- 👨‍💻 I work alot with Google Cloud Platform, JavaScript and Tech Community
 - 💬 Ask me about Google Cloud
+- 🌱 It’s my dream for every child to learn about technology
 - 📫 How to reach me: trevoratwijukire@gmail.com
 - ⚡ Fun fact: I never sleep until the bug is fixed!
+- 🔭 One-day,I will create a technology solution that will put a dent in the universe.
 <br>
 
 ## Connect with me
