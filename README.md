@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Cloud geek | Educator and a Problem solver.
+I am a Cloud geek, Educator and a Problem solver.
 
 - 👨‍💻 I work alot with Google Cloud Platform, JavaScript and Tech Community
 - 💬 Ask me about Google Cloud
