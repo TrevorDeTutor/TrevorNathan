@@ -1,8 +1,9 @@
 ### Hello World 👋
-I am a Cloud geek, Educator and a Problem solver.
+I am a Cloud geek, Educator, and a Problem solver.
 
-- 👨‍💻 I work alot with Google Cloud Platform, JavaScript and Tech Community
+- 👨‍💻 I work a lot with Google Cloud Platform, Python, JavaScript, and Tech Community
 - 💬 Ask me about Google Cloud
+- 🔮 Future Artificial Intelligence and 🤖 Robotics Engineer
 - 🌱 It’s my dream for every child to learn about technology
 - 📫 How to reach me: trevoratwijukire@gmail.com
 - ⚡ Fun fact: I never sleep until the bug is fixed!
